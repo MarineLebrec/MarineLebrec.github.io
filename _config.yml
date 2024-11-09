@@ -13,6 +13,6 @@ kramdown:
   syntax_highlighter: rouge
 
 # Theme and plugin settings
-remote_theme: pages-themes/architect@v0.2.0
+remote_theme: cvless
 plugins:
   - jekyll-remote-theme
