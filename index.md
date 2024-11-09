@@ -2,6 +2,7 @@
 layout: default
 title: Marine Lebrec
 ---
+<link rel="stylesheet" href="custom.css">
 
 # Welcome to My Site!
 
