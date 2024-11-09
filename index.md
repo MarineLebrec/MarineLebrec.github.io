@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Welcome to My GitHub Pages Site
+title: Marine Lebrec
 ---
 
 # Welcome to My Site!
