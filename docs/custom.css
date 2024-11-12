@@ -1,3 +1,22 @@
 .page-header {
     background-color: #3a4a54; /* Your desired color */
 }
+
+/* Style the navigation links */
+.nav-links {
+    text-align: center;
+    margin-top: 10px;
+    font-size: 1.1em;
+}
+
+.nav-links a {
+    color: #007acc; /* Adjust color as desired */
+    text-decoration: none;
+    padding: 0 15px;
+}
+
+.nav-links a:hover {
+    color: #005fa3; /* Adjust hover color */
+    text-decoration: underline;
+}
+
