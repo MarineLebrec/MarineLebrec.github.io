@@ -22,3 +22,6 @@ plugins:
 
 # Markdown settings
 markdown: kramdown
+
+permalink: pretty
+
