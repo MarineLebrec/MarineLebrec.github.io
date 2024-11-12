@@ -3,6 +3,8 @@ layout: default
 title: About Me
 permalink: /aboutme/
 ---
+<link rel="stylesheet" href="custom.css">
+---
 
 # About Me
 
