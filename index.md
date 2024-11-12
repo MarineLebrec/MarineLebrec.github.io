@@ -3,13 +3,6 @@ layout: default
 title: Marine Lebrec
 ---
 <link rel="stylesheet" href="custom.css">
-
-# Marine Lebrec
-
-<div class="nav-links">
-  [About](#about) | [Projects](#projects) | [Contact](#contact)
-</div>
-
 ---
 
 # Welcome to My Site!
