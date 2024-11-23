@@ -7,17 +7,15 @@ permalink: /aboutme/
 ---
 
 # About Me
-
+<p style="float: right; margin-left: 15px;">
+    <img src="/images/me.jpeg" alt="My Image" width="200" style="border-radius: 15px;">
+    <br>
+</p>
 Welcome to my personal website! <br><br>
 My name is Marine Lebrec, I am an oceanographer and data scientist passionate about understanding and visualizing the complexities of our oceans. <br><br>
 With a background in chemical oceanography, GIS, and programming, I specialize in transforming complex environmental datasets into accessible products. I have 8 years of experiencing working in academia, private research institutions, and international agencies tackling pressing challenges such as climate change, ecosystem monitoring, and resource management.
 
 ### Education
-
-<p style="float: right; margin-left: 15px;">
-    <img src="/images/cruise.jpeg" alt="My Image" width="200" style="border-radius: 15px;">
-    <br>
-</p>
 
 During my graduate studies at Moss Landing Marine Labs (2020 - 2022), I helped develop new methods for measuring phosphate and silicate in seawater using microfluidic analyzers, and built new open-source software for these instruments. 
 This allowed me to gain hands on training in a chemistry lab, at sea on research vessels, and behind a computer building out my software engineering and data analysis skills. My thesis work culminated in the publication of a manuscript, which you can read here: [Lebrec & Grand 2024](https://doi.org/10.3389/fmars.2024.1354780). 
