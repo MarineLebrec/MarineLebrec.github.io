@@ -6,9 +6,8 @@ permalink: /aboutme/
 <link rel="stylesheet" href="custom.css">
 ---
 
-# About Me
 <p style="float: right; margin-left: 15px;">
-    <img src="/images/self.png" alt="My Image" width="200" style="border-radius: 15px;">
+    <img src="/images/self.png" alt="My Image" width="300" style="border-radius: 15px;">
     <br>
 </p>
 Welcome to my personal website! <br><br>
