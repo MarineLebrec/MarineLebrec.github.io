@@ -8,7 +8,7 @@ title: Publications & Presentations
 - Tilbrook et al., 2019. An enhanced ocean acidifcation observing network: from people to technology to data synthesis and information exchange. Frontiers in Marine Science 6: 337. Doi: 10.3389/fmars.2019.00337.
 - Lebrec et al., 2019. Ocean acidifcation impacts in select Pacifc Basin coral reef ecosystems. Regional Studies in Marine Science 28: 100584. Doi: 10.1016/j.rsma.2019.100584
 
-## Presentatinos
+## Presentations
 - Ruhl & Lebrec, 2024. Image based Essential Ocean Variables: Integrating information to realize the power of big data in the Global Ocean Observing System. Marine Imaging Workshop.
 ◦ Lebrec et al., 2024. Leveraging the CeNCOOS Shore Station Network and ERDDAP Services to Develop Publicly Accessible User-Friendly Water Quality Dashboards. Ocean Sciences Meeting.
 - Partida et al., 2024. Trinidad Head Ocean Observing Node. Eastern Pacific Ocean Conference.
