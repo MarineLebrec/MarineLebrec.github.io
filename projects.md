@@ -7,3 +7,17 @@ You can learn more this project in this [StoryMap](https://storymaps.arcgis.com/
     <br>
     <span style="display: block; margin-top: 4px; font-size: 0.9em;">Different groups of clustered layers that are relevant for benthic community composition (left) and final combined classifications, where each color corresponds to a unique modeled habitat.</span>
 </p>
+
+## Access to real-time ocean information
+As a technical manager for the Central and Northern California Ocean Observing System (CeNCOOS), one of my primary responsibilities is to help make data accessible through web products, including data portals, dashboards, and APIs. This work involves everything from: 
+- Creating data pipelines to ensure data are continuously flowing to an end point
+- Standardizing data and metadata to adhere to national and international standards
+- Developing easy to use web-based tools for data access & visualization
+- Communicating these products to end users to improve these tools and ensure folks are finding them valuable! 
+
+<p style="float: right; margin-left: 15px; text-align: center;">
+    <img src="/images/caloos.png" alt="My Image" width="600" style="border-radius: 15px;">
+    <br>
+    <span style="display: block; margin-top: 4px; font-size: 0.9em;">The "CalOOS" data portal is an open, centralized platform for accessing all sorts of ocean information from the California coast.</span>
+</p>
+
