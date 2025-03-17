@@ -3,7 +3,7 @@ I have been leading an international working group focused on benthic habitat ma
 You can learn more this project in this [StoryMap](https://storymaps.arcgis.com/stories/f453ff55688747509bf9adda989df110) and on our [working group webpage](https://www.deepoceanobserving.org/pages/habitat).
 
 <p style="float: right; margin-left: 15px; text-align: center;">
-    <img src="/images/habitatmapping.png" alt="My Image" width="500" style="border-radius: 15px;">
+    <img src="/images/habitatmapping.png" alt="My Image" width="600" style="border-radius: 15px;">
     <br>
-    <span style="display: block; margin-top: 4px;">Different groups of clustered layers that are relevant for benthic community composition (left) and final combined classifications, where each color corresponds to a unique modeled habitat.</span>
+    <span style="display: block; margin-top: 4px; font-size: 0.9em;">Different groups of clustered layers that are relevant for benthic community composition (left) and final combined classifications, where each color corresponds to a unique modeled habitat.</span>
 </p>
