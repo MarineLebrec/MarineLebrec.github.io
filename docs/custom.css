@@ -1,4 +1,8 @@
 .page-header {
+    background-color: #3a4a54; /* Your desired color */
+}
+
+.page-header {
     background-color: #3a4a54 !important; /* Your desired solid color */
     background-image: none !important; /* Remove gradient */
 }
