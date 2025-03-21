@@ -13,7 +13,7 @@ kramdown:
   syntax_highlighter: rouge
 
 # Theme and plugin settings
-remote_theme: pages-themes/cayman
+remote_theme: pages-themes/midnight
 plugins:
   - jekyll-remote-theme
   - jekyll-paginate

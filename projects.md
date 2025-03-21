@@ -41,6 +41,7 @@ As a technical manager for the Central and Northern California Ocean Observing S
 
 ## Microfluidic nutrient analyzer method development
 As a graduate student at San Jose State University's Moss Landing Marine Laboratories, I helped develop new methods for measuring silicate and phosphate in seawater, two key macronutrients for sustaining life in the ocean. As part of this work, I collaborated with chemists, engineers, and computer scientists to build a low-cost analyzer, which I deployed at a coastal shore station. We developed the first iteration of a Python-based software to control the instrument remotely and log data. With this instrument, I was able to capture hourly nutrient measurements at the head of the Monterey Bay canyon, and brought the instrument to the Hawai'i Ocean Time Series to collect samples from the surface to 5000 meters! My thesis work culminated in the publication of a manuscript, which you can read here: [Lebrec & Grand 2024](https://doi.org/10.3389/fmars.2024.1354780).
+
 <p style="float: right; margin-left: 18px; text-align: center;">
     <img src="/images/mlml.png" alt="My Image" width="700" style="border-radius: 15px;">
     <br>
